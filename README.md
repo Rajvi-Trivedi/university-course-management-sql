@@ -1,4 +1,4 @@
-**SQL Final Project**
+## SQL Final Project
 
 ---
 
