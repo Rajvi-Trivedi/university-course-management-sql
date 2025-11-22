@@ -68,6 +68,3 @@ Maps each student to the courses they enroll in.
 Includes enrollment date and supports window analysis.
 
 
-✔ Table Creation & Constraints
-
-Pri
