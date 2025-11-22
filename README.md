@@ -1,5 +1,5 @@
 University Enrollment & Course Management System
-SQL Project – Rajvi Version
+SQL Project 
 📌 Overview
 
 The University Enrollment & Course Management System is a fully functional SQL-based project that demonstrates how a real academic database operates.
